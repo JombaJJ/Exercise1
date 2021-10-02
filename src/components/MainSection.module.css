@@ -1,0 +1,30 @@
+.newstopic {
+    background-color: white;
+    text-align: left;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.container {
+    background-color:white;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    width: 600px;
+}
+
+
+div.picture1 {
+    width:500x;
+    height:350px;
+    background-image:url('rokki.png');
+ }
+
+ div.picture2 {
+    width:500x;
+    height:300px;
+    background-image:url('toissa.png');
+ }
